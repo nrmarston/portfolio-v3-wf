@@ -2,7 +2,7 @@ addEventListener("DOMContentLoaded", () => {
   // unlock sounds
   const unlockSound = new Howl({
     src: [
-      "https://www.dropbox.com/scl/fi/h4t2dd0t3gs71y144ec1i/unlock.mp3?rlkey=h9bx0em7446pgy0mqp3rgecs8&st=yn0da1gh&dl=1",
+      "https://cdn.jsdelivr.net/gh/nrmarston/portfolio-v3-wf@main/public/sounds/unlock.mp3",
     ],
     volume: 0.5,
   });
